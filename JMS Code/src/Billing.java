@@ -6,6 +6,8 @@ import javax.swing.border.*;
 import java.io.*;
 class Billing extends JFrame implements ActionListener
 {
+
+//Simulating Changes to Code
 	JInternalFrame iFrameBilling = new JInternalFrame("Add New Billing Item",true,true,true,true);
 	
 	Connection con;
