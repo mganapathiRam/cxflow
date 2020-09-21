@@ -6,6 +6,7 @@ import javax.swing.border.*;
 import java.io.*;
 class BillingDel extends JFrame implements ActionListener
 {
+//Simulating code changes to github
 	JInternalFrame iFrameBillingDel = new JInternalFrame("Delete Billing Info",true,true,true,true);
 	
 	Connection con;
